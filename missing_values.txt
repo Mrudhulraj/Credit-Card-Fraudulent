@@ -1,0 +1,9 @@
+Done
+credit_score=8 (if 1 <650 (b/w 500 and 650) else if 0 >650 (b/w 650 and 900)) DONE
+owns_car=547 (501=0, 46=1) () (dont know but max Nan is 0) 
+no_of_children=774 (708=0,66=1) (drop col) DONE
+total_family_members=83 (7=1,76=0) (fill with 2) 
+ 
+no_of_days_employed=463 (428=0,35=1)
+migrant_worker=87 
+yearl_debt_payment=95
